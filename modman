@@ -1,0 +1,5 @@
+app/code/community/VS7/SwatchesPreconfig                            app/code/community/VS7/SwatchesPreconfig
+app/etc/modules/VS7_SwatchesPreconfig.xml                           app/etc/modules/VS7_SwatchesPreconfig.xml
+app/design/frontend/rwd/default/layout/vs7_swatchespreconfig.xml    app/design/frontend/rwd/default/layout/vs7_swatchespreconfig.xml
+app/design/frontend/rwd/default/template/vs7_swatchespreconfig      app/design/frontend/rwd/default/template/vs7_swatchespreconfig
+skin/frontend/rwd/default/vs7_swatchespreconfig                     skin/frontend/rwd/default/vs7_swatchespreconfig

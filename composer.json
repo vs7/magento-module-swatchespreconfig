@@ -1,0 +1,27 @@
+{
+    "name":"vs7/magento-module-swatchespreconfig",
+    "type":"magento-module",
+    "version":"0.1.0",
+    "license": "OSL-3.0",
+    "description": "Magento extension. Product data for swatches.",
+    "keywords": [
+        "magento",
+        "magento1",
+        "vs7",
+        "swatches",
+        "product",
+        "config",
+        "data"
+    ],
+    "authors": [
+        {
+            "name": "VS7, Vladislav Gevlich",
+            "email": "vs7develop@gmail.com",
+            "homepage": "https://vs7.io"
+        }
+    ],
+    "homepage": "https://github.com/vs7/magento-module-swatchespreconfig",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

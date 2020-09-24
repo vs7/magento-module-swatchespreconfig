@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <product_list>
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_js</type>
+                <name>vs7_swatchespreconfig/vs7_swatchespreconfig.js</name>
+                <params><![CDATA[name="z"]]></params>
+            </action>
+        </reference>
+        <reference name="product_list.after">
+            <block type="vs7_swatchespreconfig/list" name="vs7_swatchespreconfig.media.js.list" />
+        </reference>
+    </product_list>
+</layout>
